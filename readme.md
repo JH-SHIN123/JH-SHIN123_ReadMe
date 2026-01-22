@@ -1,6 +1,6 @@
 # 👋 안녕하세요, 신정호입니다
 
-**Game Programmer** | Shipped on Steam | Unreal Engine & DirectX Specialist
+**Game Programmer** | Shipped on Steam(Free to Play) | Unreal Engine & DirectX Specialist
 
 
 [경력소개서 (2 pages)](./doc/pdf/신정호_경력소개서(2025).pdf)
@@ -15,7 +15,7 @@
 <img src="/doc/image/BipandBop.png" width="40%" height="40%" title="BipandBop" alt="BipandBop"></img>
 
 
-**2-Player Online Co-op Puzzle Platformer** | Team Lead (4-person team)
+**2-Player Online Co-op Puzzle Platformer** | Team Lead (4-person team)  
 **Key Achievements:**
 - Architected online multiplayer system (EOS SDK, Steam + LAN support)
 - Built integrated FX spawning library with automatic lifecycle management
