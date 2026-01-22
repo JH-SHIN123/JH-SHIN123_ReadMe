@@ -1,6 +1,8 @@
 # 👋 안녕하세요, 신정호입니다
 
 **Game Programmer** | Shipped on Steam | Unreal Engine & DirectX Specialist
+
+
 [경력소개서 (2 pages)](./doc/pdf/신정호_경력소개서(2025).pdf)
 
 
@@ -64,7 +66,7 @@
 <details>
 <summary>📚 Additional Materials (2021-2022)</summary>
 
-[Earlier Projects - DirectX Learning Journey (66 pages)](./doc/pdf/신정호_기술소개서(2021 - 2022).pdf)
+[Earlier Projects - DirectX Learning Journey (66 pages)](./doc/pdf/신정호_기술소개서(2021-2022).pdf)
 - Foundation-building projects
 - DirectX 9/11 progression
 - VFX, AI, and tools development
