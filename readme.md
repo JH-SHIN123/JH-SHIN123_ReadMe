@@ -1,6 +1,8 @@
 # 👋 안녕하세요, 신정호입니다
 
 **Game Programmer** | Shipped on Steam | Unreal Engine & DirectX Specialist
+[경력소개서 (2 pages)](./doc/pdf/신정호_경력소개서(2025).pdf)
+
 
 ---
 
@@ -9,14 +11,15 @@
 ### [Bip and Bop](https://store.steampowered.com/app/4048740/Bip_and_Bop/) - Steam (Oct 2025)
 
 <img src="/doc/image/BipandBop.png" width="40%" height="40%" title="BipandBop" alt="BipandBop"></img>
+
+
 **2-Player Online Co-op Puzzle Platformer** | Team Lead (4-person team)
 **Key Achievements:**
 - Architected online multiplayer system (EOS SDK, Steam + LAN support)
 - Built integrated FX spawning library with automatic lifecycle management
 - Managed full Steam release pipeline (build → submission → live service)
 
-![Steam Rating](https://img.shields.io/badge/Steam-77%25%20Positive-blue)
-![Reviews](https://img.shields.io/badge/Reviews-77-green)
+![Steam Rating](https://img.shields.io/badge/Steam-77%25%20Positive-blue) ![Reviews](https://img.shields.io/badge/Reviews-77-green)
 [🎮 Play on Steam](https://store.steampowered.com/app/4048740/Bip_and_Bop/) | [📺 Gameplay Walkthrough](https://youtu.be/ptgCMJLK8qw)
 
 ---
@@ -53,7 +56,7 @@
 ### 📝 Technical Documentation
 
 **Primary Portfolio (2025)**  
-[기술소개서 - Bip and Bop & WindowKill (51 pages)](YOUR_NOTION_OR_PDF_LINK)
+[기술소개서 - Bip and Bop & WindowKill (51 pages)](./doc/pdf/신정호_기술소개서(2025).pdf)
 - Commercial release (Steam)
 - Custom DirectX 11 engine
 - System architecture & implementation details
@@ -61,7 +64,7 @@
 <details>
 <summary>📚 Additional Materials (2021-2022)</summary>
 
-[Earlier Projects - DirectX Learning Journey (66 pages)](YOUR_OLD_PDF_LINK)
+[Earlier Projects - DirectX Learning Journey (66 pages)](./doc/pdf/신정호_기술소개서(2021 - 2022).pdf)
 - Foundation-building projects
 - DirectX 9/11 progression
 - VFX, AI, and tools development
