@@ -8,17 +8,16 @@
 
 ### [Bip and Bop](https://store.steampowered.com/app/4048740/Bip_and_Bop/) - Steam (Oct 2025)
 
+<img src="/doc/image/BipandBop.png" width="40%" height="40%" title="BipandBop" alt="BipandBop"></img>
 **2-Player Online Co-op Puzzle Platformer** | Team Lead (4-person team)
-
-![Steam Rating](https://img.shields.io/badge/Steam-79%25%20Positive-blue)
-![Reviews](https://img.shields.io/badge/Reviews-77-green)
-
 **Key Achievements:**
 - Architected online multiplayer system (EOS SDK, Steam + LAN support)
 - Built integrated FX spawning library with automatic lifecycle management
 - Managed full Steam release pipeline (build → submission → live service)
 
-[🎮 Play on Steam](https://store.steampowered.com/app/4048740/Bip_and_Bop/) | [📺 Gameplay Walkthrough](https://www.youtube.com/watch?v=BjxbNvNWsco)
+![Steam Rating](https://img.shields.io/badge/Steam-77%25%20Positive-blue)
+![Reviews](https://img.shields.io/badge/Reviews-77-green)
+[🎮 Play on Steam](https://store.steampowered.com/app/4048740/Bip_and_Bop/) | [📺 Gameplay Walkthrough](https://youtu.be/ptgCMJLK8qw)
 
 ---
 
