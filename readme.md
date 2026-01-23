@@ -40,8 +40,8 @@
 <img src="/doc/image/BipandBop.png" width="40%" height="40%" title="BipandBop" alt="BipandBop"></img>
 
 
-<img src="/doc/image/BipandBop_Preview_1.gif" width="50%" height="50%" title="BipandBop" alt="BipandBop_Preview_1"></img>
-<img src="/doc/image/BipandBop_Preview_2.gif" width="50%" height="50%" title="BipandBop" alt="BipandBop_Preview_2"></img>
+<img src="/doc/image/BipandBop_Preview_1.gif" width="40%" height="40%" title="BipandBop" alt="BipandBop_Preview_1"></img>
+<img src="/doc/image/BipandBop_Preview_2.gif" width="40%" height="40%" title="BipandBop" alt="BipandBop_Preview_2"></img>
 
 
 **2인 온라인 협동 퍼즐 플랫포머** | 팀장 (4인 팀) | Unreal Engine 5.4
@@ -61,9 +61,9 @@
 
 **탄막 슈팅 게임** | 개인 프로젝트 | DirectX 11
 
-<img src="/doc/image/WindowKill_Preview_3.gif" width="35%" height="35%" title="BipandBop" alt="WindowKill_Preview_3"></img>
-<img src="/doc/image/WindowKill_Preview_1.gif" width="35%" height="35%" title="BipandBop" alt="WindowKill_Preview_1"></img>
-<img src="/doc/image/WindowKill_Preview_2.gif" width="35%" height="35%" title="BipandBop" alt="WindowKill_Preview_2"></img>
+<img src="/doc/image/WindowKill_Preview_3.gif" width="40%" height="40%" title="BipandBop" alt="WindowKill_Preview_3"></img>
+<img src="/doc/image/WindowKill_Preview_1.gif" width="40%" height="40%" title="BipandBop" alt="WindowKill_Preview_1"></img>
+<img src="/doc/image/WindowKill_Preview_2.gif" width="40%" height="40%" title="BipandBop" alt="WindowKill_Preview_2"></img>
 
 - **커스텀 좌표계**: 비대칭 투영 행렬 설계, 윈도우 좌표계와 DirectX 통합
 - **다중 윈도우 렌더링**: 실시간 윈도우 생성/관리, SwapChain 동적 제어
@@ -86,7 +86,7 @@
 
 <details>
 <summary>📚 모든 첨부 자료 (2021-2022)</summary>
-## 📄 첨부 자료
+
 **문서에 첨부된 모든 자료**  
 **경력소개서**
 - [경력소개서 (2 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_경력소개서(2025).pdf)
