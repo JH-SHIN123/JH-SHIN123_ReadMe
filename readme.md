@@ -2,6 +2,8 @@
 
 **게임 프로그래머** | Steam 출시 경험 | Unreal Engine & DirectX
 
+- [경력소개서 (52 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_경력소개서(2025).pdf)
+
 ---
 
 ## 💼 경력
@@ -11,7 +13,7 @@
 - 런타임 맵 에디터 개발
 - **입사 1년 만에 전임으로 승진**
 
-**총 경력:** 약 2년 (실무 + 개인 프로젝트)
+**총 경력:** 약 2년 (실무 + 스팀 출시 개인 프로젝트)
 
 ---
 
@@ -33,12 +35,12 @@
 
 ## 📂 주요 포트폴리오
 - [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C(2025).pdf)
-### 🎮 Bip and Bop (2025.10 Steam 출시 | 2025.05 - 2025.09)
+### 1. Bip and Bop (2025.10 Steam 출시 | 2025.05 - 2025.09)
 
 <img src="/doc/image/BipandBop.png" width="40%" height="40%" title="BipandBop" alt="BipandBop"></img>
-[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/BipandBop.png)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/BipandBop.png)
-[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/BipandBop_Preview_1.gif)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/BipandBop_Preview_1.gif)
-[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/BipandBop_Preview_2.gif)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/BipandBop_Preview_2.gif)
+<img src="/doc/image/BipandBop_Preview_1.gif" width="100%" height="100%" title="BipandBop" alt="BipandBop_Preview_1"></img>
+<img src="/doc/image/BipandBop_Preview_2.gif" width="100%" height="100%" title="BipandBop" alt="BipandBop_Preview_2"></img>
+
 
 **2인 온라인 협동 퍼즐 플랫포머** | 팀장 (4인 팀) | Unreal Engine 5.4
 
@@ -54,13 +56,13 @@
 
 
 
-### 🎯 Window Kill 모작 (2025.02 - 2025.04)
+### 2. Window Kill 모작 (2025.02 - 2025.04)
 
 **탄막 슈팅 게임** | 개인 프로젝트 | DirectX 11
 
-[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/WindowKill_Preview_1.gif)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/WindowKill_Preview_1.gif)
-[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/WindowKill_Preview_2.gif)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/WindowKill_Preview_2.gif)
-[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/WindowKill_Preview_3.gif)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/WindowKill_Preview_3.gif)
+<img src="/doc/image/WindowKill_Preview_1.gif" width="100%" height="100%" title="BipandBop" alt="WindowKill_Preview_1"></img>
+<img src="/doc/image/WindowKill_Preview_2.gif" width="100%" height="100%" title="BipandBop" alt="WindowKill_Preview_2"></img>
+<img src="/doc/image/WindowKill_Preview_3.gif" width="100%" height="100%" title="BipandBop" alt="WindowKill_Preview_3"></img>
 
 - **커스텀 좌표계**: 비대칭 투영 행렬 설계, 윈도우 좌표계와 DirectX 통합
 - **다중 윈도우 렌더링**: 실시간 윈도우 생성/관리, SwapChain 동적 제어
@@ -82,15 +84,15 @@
 
 
 <details>
-<summary>📚  첨부 자료 (2021-2022)</summary>
+<summary>📚 모든 첨부 자료 (2021-2022)</summary>
 ## 📄 첨부 자료
-**문서에 첨부된 모든 자료**
+**문서에 첨부된 모든 자료**  
 **경력소개서**
-- [경력소개서 (2 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B2%BD%EB%A0%A5%EC%86%8C%EA%B0%9C%EC%84%9C(2025).pdf)
+- [경력소개서 (2 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_경력소개서(2025).pdf)
 
 **기술소개서**
-- [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C(2025).pdf)
-- [기술소개서 구버전 (2021-2022) - DirectX 러닝 저니 (66 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C(2021-2022).pdf)
+- [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_기술소개서(2025).pdf)
+- [기술소개서 구버전 (2021-2022) - DirectX 러닝 저니 (66 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_기술소개서(2021-2022).pdf)
 </details>
 
 ---
