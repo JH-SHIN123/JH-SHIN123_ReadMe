@@ -1,83 +1,101 @@
 # 👋 안녕하세요, 신정호입니다
 
-**Game Programmer** | Shipped on Steam(Free to Play) | Unreal Engine & DirectX Specialist
-
-
-[경력소개서 (2 pages)](./doc/pdf/신정호_경력소개서(2025).pdf)
-
+**게임 프로그래머** | Steam 출시 경험 | Unreal Engine & DirectX
 
 ---
 
-## 🎮 Latest Release
+## 💼 경력
 
-### [Bip and Bop](https://store.steampowered.com/app/4048740/Bip_and_Bop/) - Steam (Oct 2025)
+**MnM소프트** | Unreal Engine 개발자 | 2022.08 - 2023.12
+- VR/모션 캡쳐 통합 (OptiTrack → Unreal Engine 4)
+- 런타임 맵 에디터 개발
+- **입사 1년 만에 전임으로 승진**
+
+**총 경력:** 약 2년 (실무 + 개인 프로젝트)
+
+---
+
+## 🔧 기술 스택
+
+**상용 프로젝트:**
+- Unreal Engine 4/5, C++, Blueprint
+- VR 개발, Motion Capture (OptiTrack)
+- 온라인 멀티플레이 (EOS SDK, Steam SDK)
+
+**개인 프로젝트:**
+- DirectX 9/11, Win32 API, HLSL
+- 커스텀 엔진 아키텍처
+- SIMD 최적화, 수학 라이브러리
+
+**학습 중:** Unity
+
+---
+
+## 📂 주요 포트폴리오
+- [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C(2025).pdf)
+### 🎮 Bip and Bop (2025.10 Steam 출시 | 2025.05 - 2025.09)
 
 <img src="/doc/image/BipandBop.png" width="40%" height="40%" title="BipandBop" alt="BipandBop"></img>
+[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/BipandBop.png)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/BipandBop.png)
+[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/BipandBop_Preview_1.gif)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/BipandBop_Preview_1.gif)
+[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/BipandBop_Preview_2.gif)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/BipandBop_Preview_2.gif)
 
+**2인 온라인 협동 퍼즐 플랫포머** | 팀장 (4인 팀) | Unreal Engine 5.4
 
-**2-Player Online Co-op Puzzle Platformer** | Team Lead (4-person team)  
-**Key Achievements:**
-- Architected online multiplayer system (EOS SDK, Steam + LAN support)
-- Built integrated FX spawning library with automatic lifecycle management
-- Managed full Steam release pipeline (build → submission → live service)
+- **온라인 멀티플레이 시스템**: EOS SDK 기반 Steam/LAN 통합, P2P 세션 관리
+- **통합 이펙트 시스템**: 이펙트/사운드 통합 스포닝 라이브러리, 생명주기 자동화
+- **Steam 출시 관리**: 빌드 파이프라인 구축, 심사 진행, 라이브 서비스 운영
 
 ![Steam Rating](https://img.shields.io/badge/Steam-77%25%20Positive-blue) ![Reviews](https://img.shields.io/badge/Reviews-77-green)
-[🎮 Play on Steam](https://store.steampowered.com/app/4048740/Bip_and_Bop/) | [📺 Gameplay Walkthrough](https://youtu.be/ptgCMJLK8qw)
+
+[🎮 Steam에서 플레이](https://store.steampowered.com/app/4048740/Bip_and_Bop/) | [📺 게임플레이 영상](https://youtu.be/ptgCMJLK8qw)
+
+
+
+
+
+### 🎯 Window Kill 모작 (2025.02 - 2025.04)
+
+**탄막 슈팅 게임** | 개인 프로젝트 | DirectX 11
+
+[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/WindowKill_Preview_1.gif)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/WindowKill_Preview_1.gif)
+[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/WindowKill_Preview_2.gif)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/WindowKill_Preview_2.gif)
+[![BipandBop](/JH-SHIN123/JH-SHIN123_ReadMe/raw/main/doc/image/WindowKill_Preview_3.gif)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/image/WindowKill_Preview_3.gif)
+
+- **커스텀 좌표계**: 비대칭 투영 행렬 설계, 윈도우 좌표계와 DirectX 통합
+- **다중 윈도우 렌더링**: 실시간 윈도우 생성/관리, SwapChain 동적 제어
+- **수학 라이브러리**: DirectXMath 래핑, SIMD 최적화, 메모리 정렬
+
+[📺 플레이 영상](https://www.youtube.com/watch?v=BjxbNvNWsco)
 
 ---
-
-## 💼 Professional Experience
-
-**MnM소프트** | Unreal Engine Developer | Aug 2022 - Dec 2023
-- VR/Motion Capture integration (OptiTrack → Unreal Engine 4)
-- Runtime map editor development
-- **Promoted to full-time in 1 year** based on performance
-
-**Total Experience:** ~2 years (Commercial + Indie)
-
----
-
-## 🔧 Tech Stack
-
-**Commercial Projects:**
-- Unreal Engine 4/5, C++, Blueprint
-- VR Development, Motion Capture (OptiTrack)
-- Online Multiplayer (EOS SDK, Steam SDK)
-
-**Personal Projects:**
-- DirectX 9/11, Win32 API, HLSL
-- Custom Engine Architecture
-- SIMD Optimization, Advanced Math
-
-**Currently Learning:** Unity
-
----
-
-## 📂 Portfolio
-
-### 📝 Technical Documentation
-
-**Primary Portfolio (2025)**  
-[기술소개서 - Bip and Bop & WindowKill (51 pages)](./doc/pdf/신정호_기술소개서(2025).pdf)
-- Commercial release (Steam)
-- Custom DirectX 11 engine
-- System architecture & implementation details
 
 <details>
-<summary>📚 Additional Materials (2021-2022)</summary>
+<summary>그 외의 포트폴리오 (2021-2022)</summary>
 
-[Earlier Projects - DirectX Learning Journey (66 pages)](./doc/pdf/신정호_기술소개서(2021-2022).pdf)
+[DirectX 러닝 저니 포트폴리오 (66 pages)](./doc/pdf/신정호_기술소개서(2021-2022).pdf)
 - Foundation-building projects
-- DirectX 9/11 progression
+- DirectX 9/11 사용
 - VFX, AI, and tools development
 
-*Pre-employment learning projects*
+</details>
 
+
+<details>
+<summary>📚  첨부 자료 (2021-2022)</summary>
+## 📄 첨부 자료
+**문서에 첨부된 모든 자료**
+**경력소개서**
+- [경력소개서 (2 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B2%BD%EB%A0%A5%EC%86%8C%EA%B0%9C%EC%84%9C(2025).pdf)
+
+**기술소개서**
+- [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C(2025).pdf)
+- [기술소개서 구버전 (2021-2022) - DirectX 러닝 저니 (66 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C(2021-2022).pdf)
 </details>
 
 ---
 
-## 📫 Contact
+## 📫 연락처
 
 📧 sjh98091@gmail.com
 
@@ -85,3 +103,4 @@
 
 > 💡 "시행착오를 두려워 하지않고, 어떠한 기술적 난관도 흔들림 없이 해결하는  
 > 뿌리가 튼튼한 프로그래머가 되겠습니다."
+```
