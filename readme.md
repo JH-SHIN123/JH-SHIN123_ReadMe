@@ -33,13 +33,11 @@
 
 ---
 
-## 📂 주요 포트폴리오
-- [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C(2025).pdf)
+## 📂 주요 포트폴리오 - [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C(2025).pdf)
+
 ### 1. Bip and Bop (2025.10 Steam 출시 | 2025.05 - 2025.09)
 
-<img src="/doc/image/BipandBop.png" width="40%" height="40%" title="BipandBop" alt="BipandBop"></img>
-
-
+<img src="/doc/image/BipandBop.png" width="40%" height="40%" title="BipandBop" alt="BipandBop"></img>  
 <img src="/doc/image/BipandBop_Preview_1.gif" width="40%" height="40%" title="BipandBop" alt="BipandBop_Preview_1"></img>
 <img src="/doc/image/BipandBop_Preview_2.gif" width="40%" height="40%" title="BipandBop" alt="BipandBop_Preview_2"></img>
 
@@ -54,8 +52,7 @@
 
 [🎮 Steam에서 플레이](https://store.steampowered.com/app/4048740/Bip_and_Bop/) | [📺 게임플레이 영상](https://youtu.be/ptgCMJLK8qw)  
 
-
-
+---
 
 ### 2. Window Kill 모작 (2025.02 - 2025.04)
 
@@ -73,19 +70,29 @@
 
 ---
 
+## 📫 연락처
+
+📧 sjh98091@gmail.com
+
+---
+
+> 💡 "시행착오를 두려워 하지않고, 어떠한 기술적 난관도 흔들림 없이 해결하는  
+> 뿌리가 튼튼한 프로그래머가 되겠습니다."
+
+
 <details>
 <summary>그 외의 포트폴리오 (2021-2022)</summary>
 
 [DirectX 러닝 저니 포트폴리오 (66 pages)](./doc/pdf/신정호_기술소개서(2021-2022).pdf)
-- Foundation-building projects
-- DirectX 9/11 사용
-- VFX, AI, and tools development
+- DirectX 9/11 적용한 자체 엔진 아키텍처
+- HLSL을 통한 다양한 쉐이더 연출
+- MFC를 이용한 Tool 설계
 
 </details>
 
 
 <details>
-<summary>📚 모든 첨부 자료 (2021-2022)</summary>
+<summary>📚 모든 첨부 자료 </summary>
 
 **문서에 첨부된 모든 자료**  
 **경력소개서**
@@ -95,15 +102,3 @@
 - [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_기술소개서(2025).pdf)
 - [기술소개서 구버전 (2021-2022) - DirectX 러닝 저니 (66 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_기술소개서(2021-2022).pdf)
 </details>
-
----
-
-## 📫 연락처
-
-📧 sjh98091@gmail.com
-
----
-
-> 💡 "시행착오를 두려워 하지않고, 어떠한 기술적 난관도 흔들림 없이 해결하는  
-> 뿌리가 튼튼한 프로그래머가 되겠습니다."
-```
