@@ -38,6 +38,8 @@
 ### 1. Bip and Bop (2025.10 Steam 출시 | 2025.05 - 2025.09)
 
 <img src="/doc/image/BipandBop.png" width="40%" height="40%" title="BipandBop" alt="BipandBop"></img>
+
+
 <img src="/doc/image/BipandBop_Preview_1.gif" width="50%" height="50%" title="BipandBop" alt="BipandBop_Preview_1"></img>
 <img src="/doc/image/BipandBop_Preview_2.gif" width="50%" height="50%" title="BipandBop" alt="BipandBop_Preview_2"></img>
 
@@ -50,7 +52,7 @@
 
 ![Steam Rating](https://img.shields.io/badge/Steam-77%25%20Positive-blue) ![Reviews](https://img.shields.io/badge/Reviews-77-green)
 
-[🎮 Steam에서 플레이](https://store.steampowered.com/app/4048740/Bip_and_Bop/) | [📺 게임플레이 영상](https://youtu.be/ptgCMJLK8qw)
+[🎮 Steam에서 플레이](https://store.steampowered.com/app/4048740/Bip_and_Bop/) | [📺 게임플레이 영상](https://youtu.be/ptgCMJLK8qw)  
 
 
 
@@ -59,9 +61,9 @@
 
 **탄막 슈팅 게임** | 개인 프로젝트 | DirectX 11
 
-<img src="/doc/image/WindowKill_Preview_3.gif" width="50%" height="50%" title="BipandBop" alt="WindowKill_Preview_3"></img>
-<img src="/doc/image/WindowKill_Preview_1.gif" width="50%" height="50%" title="BipandBop" alt="WindowKill_Preview_1"></img>
-<img src="/doc/image/WindowKill_Preview_2.gif" width="50%" height="50%" title="BipandBop" alt="WindowKill_Preview_2"></img>
+<img src="/doc/image/WindowKill_Preview_3.gif" width="35%" height="35%" title="BipandBop" alt="WindowKill_Preview_3"></img>
+<img src="/doc/image/WindowKill_Preview_1.gif" width="35%" height="35%" title="BipandBop" alt="WindowKill_Preview_1"></img>
+<img src="/doc/image/WindowKill_Preview_2.gif" width="35%" height="35%" title="BipandBop" alt="WindowKill_Preview_2"></img>
 
 - **커스텀 좌표계**: 비대칭 투영 행렬 설계, 윈도우 좌표계와 DirectX 통합
 - **다중 윈도우 렌더링**: 실시간 윈도우 생성/관리, SwapChain 동적 제어
