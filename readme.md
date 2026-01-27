@@ -2,7 +2,7 @@
 
 **게임 프로그래머** | Steam 출시 경험 | Unreal Engine & DirectX
 
-- [경력소개서 (2 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_경력소개서(2025).pdf)
+- [경력소개서 (2 pages)](./doc/pdf/신정호_경력소개서(2025).pdf)
 
 ---
 
@@ -13,7 +13,7 @@
 - 런타임 맵 에디터 개발
 - **입사 1년 만에 주임으로 승진**
 
-**총 경력:** 약 2년 (실무 + Steam 출시 개인 프로젝트)
+**총 경력:** 약 1년 5개월
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 📂 주요 포트폴리오 - [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_기술소개서(2025).pdf)
+## 📂 주요 포트폴리오 - [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](./doc/pdf/신정호_기술소개서(2025).pdf)
 
 ### 1. Bip and Bop (2025.10 Steam 출시 | 2025.05 - 2025.09)
 
@@ -94,11 +94,10 @@
 <details>
 <summary>📚 모든 첨부 자료 </summary>
 
-**문서에 첨부된 모든 자료**  
 **경력소개서**
-- [경력소개서 (2 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_경력소개서(2025).pdf)
+- [경력소개서 (2 pages)](./doc/pdf/신정호_경력소개서(2025).pdf)
 
 **기술소개서**
-- [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_기술소개서(2025).pdf)
-- [기술소개서 구버전 (2021-2022) - DirectX 러닝 저니 (66 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_기술소개서(2021-2022).pdf)
+- [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)]./doc/pdf/신정호_기술소개서(2025).pdf)
+- [기술소개서 구버전 (2021-2022) - DirectX 러닝 저니 (66 pages)](./doc/pdf/신정호_기술소개서(2021-2022).pdf)
 </details>
