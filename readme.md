@@ -33,7 +33,7 @@
 
 ---
 
-## 📂 주요 포트폴리오 - [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/%EC%8B%A0%EC%A0%95%ED%98%B8_%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C(2025).pdf)
+## 📂 주요 포트폴리오 - [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](/JH-SHIN123/JH-SHIN123_ReadMe/blob/main/doc/pdf/신정호_기술소개서(2025).pdf)
 
 ### 1. Bip and Bop (2025.10 Steam 출시 | 2025.05 - 2025.09)
 
