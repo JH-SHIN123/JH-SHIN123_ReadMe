@@ -100,6 +100,6 @@
 - [경력소개서 (2 pages)](./doc/pdf/신정호_경력소개서(2025).pdf)
 
 **기술소개서**
-- [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)]./doc/pdf/신정호_기술소개서(2025).pdf)
+- [기술소개서 (2025) - Bip and Bop & WindowKill (51 pages)](./doc/pdf/신정호_기술소개서(2025).pdf)
 - [기술소개서 구버전 (2021-2022) - DirectX 러닝 저니 (66 pages)](./doc/pdf/신정호_기술소개서(2021-2022).pdf)
 </details>
